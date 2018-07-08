@@ -1,6 +1,8 @@
 # Size Chart Generator
 
-## Simple GUI for generating a size chart in html
+### Simple GUI for generating a size chart in html
+
+![alt text](https://raw.githubusercontent.com/dejesus2010/SizeChartGenerator/master/screenshot.png)
 
 ### INSTRUCTIONS
 
