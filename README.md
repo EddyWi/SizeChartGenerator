@@ -17,3 +17,7 @@ $ java SizeChartGenerator
 - Press generate
 
 - Html will be printed to the terminal
+
+### GENERATED TABLE
+
+![alt text](https://raw.githubusercontent.com/dejesus2010/SizeChartGenerator/master/table_result.png)
